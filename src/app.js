@@ -7,7 +7,7 @@ const MyNameApp = {
         }
     },
     methods:{
-        submitFrom(e){
+        submitForm(e){
 
            e.preventDefault();
 
